@@ -1,0 +1,34 @@
+.glide__slide
+{
+    width: 900px;
+}
+.glide__slide img
+{
+    height: 900px;
+}
+.glide
+{
+    width: 900px;
+}
+.glide__arrow img
+{
+    width: 50px;
+}
+
+.glide__arrow--left img
+{
+    transform: scaleX(-1);
+}
+
+.glide__arrow
+{
+    border:none;
+    outline:none;
+    box-shadow: none;
+}
+.glide-container
+{
+    display: flex;
+    justify-content: center;
+    
+}
